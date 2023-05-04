@@ -6,10 +6,7 @@ Trabajo con: Operadores, Bucles, Condicionales, Funciones.
 
 #Día 2:
 
-Practica con pandas 
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
+Practica con librerías de python; pandas, numpy, matplotlib.pyplot y seaborn. Primeros pasos con el manejo de DataFrames y su dibujo en gráficas.
 
 
 
