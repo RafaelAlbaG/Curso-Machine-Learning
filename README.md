@@ -1,9 +1,16 @@
-# DIA 1
+# SEMANA MACHINE LEARNING
 
-Trabajo con:
+#Día 1:
 
-Bucles
+Trabajo con: Operadores, Bucles, Condicionales, Funciones.
 
-Condicionales
+#Día 2:
 
-Funciones
+Practica con pandas 
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+
+
+
